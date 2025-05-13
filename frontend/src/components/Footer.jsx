@@ -8,7 +8,10 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.logo} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>Committed to delivering trusted, high-quality healthcare through a team of experienced and compassionate medical professionals.
+Our dedicated doctors offer personalized care for individuals and families, focusing on wellness, prevention, and treatment tailored to each patient’s needs.
+Clinic Location: [Your City, Clinic Address]
+Hours: Monday – Friday, 9:00 AM – 5:00 PM</p>
         </div>
 
         <div>
@@ -25,7 +28,7 @@ const Footer = () => {
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
             <li>+1-212-456-7890</li>
-            <li>greatstackdev@gmail.com</li>
+            <li>healthnest@gmail.com</li>
           </ul>
         </div>
 
